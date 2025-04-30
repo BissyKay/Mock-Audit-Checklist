@@ -2,7 +2,7 @@
 # Benefits of Creating an Audit Checklist
 Comprehensive Coverage: Ensures all critical areas and controls are examined thoroughly, leaving no stone unturned.
 Standardization: Guarantees consistent evaluation across teams and departments.
-Efficiency Boost: Streamlines the audit process, saving time and resources.
+Efficiency Boost: Streamlines the audit process , saving time and resources.
 Risk Identification: Systematically uncovers non-compliance, risks, and vulnerabilities.
 Robust Documentation: Creates a formal record for reporting, follow-up, and future audits.
 Improved Preparation: Enables both auditors and auditees to prepare effectively.
